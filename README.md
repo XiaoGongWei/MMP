@@ -1,4 +1,4 @@
-# MathematicalModelingPapers
+# Mathematical Modeling Papers
 # 数学建模论文
 - 本数学建模论文是主要是由肖恭伟、何晓申、张皓等人完成（2010年-2014年）以及各位老师的指导。
 - 论文的作者和信息都在论文中，包括原始数据以及代码，所有论文均提供Office Word版本方便大家使用，用时请标注作者及来源。
